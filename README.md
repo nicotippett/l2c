@@ -5,13 +5,13 @@
 ---
 
 **Phase 1: Linux and Bash**
-Topic 1: Version control
-Topic 2: Cloud CLI setup
-Topic 3: Infrastructure as Code
-Topic 4: SSH
-Topic 5: Linux CLI Basics
+Topic 1: Version control  
+Topic 2: Cloud CLI setup  
+Topic 3: Infrastructure as Code  
+Topic 4: SSH  
+Topic 5: Linux CLI Basics  
 
-[Linux Command Line CTF Challenge](https://learntocloud.guide/phase1/ctf)
+[Linux Command Line CTF Challenge](https://learntocloud.guide/phase1/ctf)  
 
 ---
 
